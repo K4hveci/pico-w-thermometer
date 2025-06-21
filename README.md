@@ -1,0 +1,1 @@
+main.py kodunu raspberry pico w (wifi bağlanan versiyon) Thonny yardımıyla yükledikten sonra sensörü kodda belirtilen pin'e bağlayın (normalde 1 numaralı pin). pico'yu elektriğe bağladıktan sonra logger.py kodunu bilgisayardan çalıştırın (main koddaki ip ve portu kontrol edin). Her 10 saniyede 1 ısı ve nem verisi txt'ye kaydedilir.
